@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It made my work way easier because it showed in which lines the two files differ.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having an entire history is good, because if you change something and the new version didn't work quite you want it to
+then you can goto the pervious version of the program which is quite handy and fast way to do things, instead of saving
+a different version of the file every time you want to make some changes to a file.
+
+
